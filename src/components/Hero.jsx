@@ -10,7 +10,7 @@ const Hero = () => {
       <img src={my_logo} alt="My Image" />
       <button
       type="button"
-      onClick={()=>window.open('https://github.com/anshita572/DSA_Updated/tree/main/AI_summarizer')}
+      onClick={()=>window.open('https://github.com/anshita572/Summify_Aritcle-Summarizer')}
       className="black_btn"
       >GitHub</button>
     </nav>
